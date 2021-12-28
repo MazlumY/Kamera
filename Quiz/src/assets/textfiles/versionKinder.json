@@ -35,52 +35,239 @@
         }
       ],
       "afterquestion": ""
+    },
+    "question3": {
+      "beforequestion": "",
+      "question": "/assets/audiofiles/versionKompakt/second.mp3",
+      "answers": [{
+          "text": "/assets/audiofiles/versionKompakt/first.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/second.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/fourth.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/third.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        }
+      ],
+      "afterquestion": ""
+    },
+    "question4": {
+      "beforequestion": "",
+      "question": "/assets/audiofiles/versionKompakt/second.mp3",
+      "answers": [{
+          "text": "/assets/audiofiles/versionKompakt/first.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/second.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/fourth.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/third.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        }
+      ],
+      "afterquestion": ""
+    },
+    "question5": {
+      "beforequestion": "",
+      "question": "/assets/audiofiles/versionKompakt/second.mp3",
+      "answers": [{
+          "text": "/assets/audiofiles/versionKompakt/first.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/second.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/fourth.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/third.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        }
+      ],
+      "afterquestion": ""
+    },
+    "question6": {
+      "beforequestion": "",
+      "question": "/assets/audiofiles/versionKompakt/second.mp3",
+      "answers": [{
+          "text": "/assets/audiofiles/versionKompakt/first.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/second.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/fourth.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/third.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        }
+      ],
+      "afterquestion": ""
+    },
+    "question7": {
+      "beforequestion": "",
+      "question": "/assets/audiofiles/versionKompakt/second.mp3",
+      "answers": [{
+          "text": "/assets/audiofiles/versionKompakt/first.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/second.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/fourth.mp3"
+        },
+        {
+          "text": "/assets/audiofiles/versionKompakt/third.mp3",
+          "feedback": "/assets/audiofiles/versionKompakt/second.mp3"
+        }
+      ],
+      "afterquestion": ""
     }
 
+
   },
-
-
-
   "questions": {
     "question1": {
-      "textvalue": "KINDERVERSION!!!!",
+      "textvalue": "Wie viele Menschen kannst du innerhalb des Zauns sehen?",
       "answers": [{
-          "text": "Die Lehrerin der Narren",
-          "feedback": "Die Frau im Mittelpunkt der Szene ist die dominierende Person. Es handelt sich hierbei um die Narrenmutter. Sie stellt sich mit folgendem Spruch vor: „Ich bin ain muoter der narren worden / am hals trag ich den orden“.",
+          "text": "22",
+          "feedback": "Insgesamt kann man in der Tellermitte 22 Figuren erkennen. Innerhalb des eingezäunten Bereichs befinden sich eine Frau und sieben Narren, die um sie herumtanzen.",
           "iscorrect": false
         },
         {
-          "text": "Die Mutter der Narren",
-          "feedback": "Richtig! Die Frau im Mittelpunkt der Szene stellt sich mit folgendem Spruch vor: „Ich bin ain muoter der narren worden / am hals trag ich den orden“. Daraus folgt, dass es sich hierbei, wie richtig vermutet, um die Narrenmutter handelt.",
+          "text": "8",
+          "feedback": "Richtig! Innerhalb des Zauns befindet sich eine Frau mit sieben weiteren Narren, die um sie herumtanzen.",
           "iscorrect": true
         },
         {
-          "text": "Die Königin der Narren",
-          "feedback": "Im Mittelpunkt der Szene steht eine dominierende Person. Es handelt sich hierbei um die Narrenmutter. Sie stellt sich mit folgendem Spruch vor: „Ich bin ain muoter der narren worden / am hals trag ich den orden.",
+          "text": "1",
+          "feedback": "Innerhalb des Zauns ist eine Frau. Um sie herum tanzen ihre sieben Narren. Es befinden sich also insgesamt acht Personen innerhalb des Zauns.",
           "iscorrect": false
         }
       ]
     },
     "question2": {
-      "textvalue": "Wer könnte die Frau im roten Kleid im Mittelpunkt der Narren sein?",
+      "textvalue": "Was trägt die Narrenmutter auf ihrem Kopf?",
       "answers": [{
-          "text": "Die Lehrerin der Narren",
-          "feedback": "Die Frau im Mittelpunkt der Szene ist die dominierende Person. Es handelt sich hierbei um die Narrenmutter. Sie stellt sich mit folgendem Spruch vor: „Ich bin ain muoter der narren worden / am hals trag ich den orden“.",
+          "text": "eine Baseballkappe",
+          "feedback": "Baseballkappen kennt heutzutage zwar jeder, jedoch wurde diese erst lange nach Erstellung des Tellers erfunden. Gleiches gilt für den Zylinderhut. Auf ihrem Kopf trägt die Narrenmutter eine Krone mit Eselsohren.",
           "iscorrect": false
         },
         {
-          "text": "Die Mutter der Narren",
-          "feedback": "Richtig! Die Frau im Mittelpunkt der Szene stellt sich mit folgendem Spruch vor: „Ich bin ain muoter der narren worden / am hals trag ich den orden“. Daraus folgt, dass es sich hierbei, wie richtig vermutet, um die Narrenmutter handelt.",
+          "text": "ein Zylinderhut",
+          "feedback": "Der Zylinderhut wurde lange nach Erstellung des Tellers erfunden. Gleiches gilt für die Baseballkappe. Auf ihrem Kopf trägt die Narrenmutter eine Krone mit Eselsohren.",
+          "iscorrect": false
+        },
+        {
+          "text": "eine Krone mit Eselsohren",
+          "feedback": "Richtig! Auf ihrem Kopf trägt die Narrenmutter eine Krone mit Eselsohren.",
+          "iscorrect": true
+        }
+      ]
+    },
+    "question3": {
+      "textvalue": "Was haben die Kopfbedeckungen der Söhne mit der Krone der Mutter gemeinsam?",
+      "answers": [{
+          "text": "Sie tragen auch Kronen",
+          "feedback": "Nur die Mutter im roten Kleid trägt eine Krone. Ihre Söhne tragen typische Narrenkappen. Jedoch kann man daran auch Eselsohren sehen – und zwar unterschiedlich viele.",
+          "iscorrect": false
+        },
+        {
+          "text": "Sie haben auch Eselsohren an ihren Kappen",
+          "feedback": "Richtig! So wie die Mutter in ihrem roten Kleid Eselsohren an ihrer Krone trägt, haben die Söhne auch Eselsohren an ihren Kappen – und zwar unterschiedlich viele.",
           "iscorrect": true
         },
         {
-          "text": "Die Königin der Narren",
-          "feedback": "Im Mittelpunkt der Szene steht eine dominierende Person. Es handelt sich hierbei um die Narrenmutter. Sie stellt sich mit folgendem Spruch vor: „Ich bin ain muoter der narren worden / am hals trag ich den orden.",
+          "text": "Sie haben alle die gleiche Farbe",
+          "feedback": "Die Söhne sind alle sehr bunt angezogen. Also haben auch alle ihre Kappen unterschiedliche Farben. An diesen Kopfbedeckungen kann man aber sehen, dass sie - wie ihre Mutter - Eselsohren an ihren Kappen befestigt haben – und zwar unterschiedlich viele.",
+          "iscorrect": false
+        }
+      ]
+    },
+    "question4": {
+      "textvalue": "Was für eine Zahl steht auf dem Dachgiebel der Mühle?",
+      "answers": [{
+          "text": "1969",
+          "feedback": "1969 betrat der erste Mensch den Mond. Der Teller wurde viel früher, und zwar 1528 hergestellt.",
+          "iscorrect": false
+        },
+        {
+          "text": "1528",
+          "feedback": "Richtig! Auf der Mühle ist die Zahl 1528 als Entstehungsjahr des Tellers zu erkennen.",
+          "iscorrect": true
+        },
+        {
+          "text": "1905",
+          "feedback": "1905 wurde das Eis am Stiel erfunden. Der Teller wurde viel früher, und zwar 1528 hergestellt.",
+          "iscorrect": false
+        }
+      ]
+    },
+    "question5": {
+      "textvalue": "Wie viele Fischer halten das Netz?",
+      "answers": [{
+          "text": "2",
+          "feedback": "Richtig! Es sind zwei Fischer. Einer steht in einem Boot und der andere läuft am Flussufer.",
+          "iscorrect": true
+        },
+        {
+          "text": "7",
+          "feedback": "Es sind im Bildvordergrund sieben Söhne, welche um die Narrenmutter herumtanzen. Fischer sind es aber nur zwei im Bildhintergrund. Einer steht in einem Boot und der andere läuft am Flussufer.",
+          "iscorrect": false
+        },
+        {
+          "text": "3",
+          "feedback": "Es sind drei Menschen, welche links die Brücke überqueren. Fischer sind es rechts aber nur zwei: Einer steht in einem Boot und der andere läuft am Flussufer.",
+          "iscorrect": false
+        }
+      ]
+    },
+    "question6": {
+      "textvalue": "Was für Tiere tragen die Leute über die Brücke?",
+      "answers": [{
+          "text": "Einhörner",
+          "feedback": "Leider sind auf dem Teller keine Einhörner abgebildet. Hier werden Gänse und Greifvögel über die Brücke getragen.",
+          "iscorrect": false
+        },
+        {
+          "text": "Gänse und Greifvögel",
+          "feedback": "Richtig. Hier werden Gänse und Greifvögel über die Brücke getragen.",
+          "iscorrect": true
+        },
+        {
+          "text": "schwarze Katzen",
+          "feedback": "Schwarze Katzen wurden früher oft mit Hexen in Verbindung gesetzt. Jedoch sind hier auf dem Teller keine Hexen gezeigt und auch keine Katzen. Hier werden Gänse und Greifvögel über die Brücke getragen.",
+          "iscorrect": false
+        }
+      ]
+    },
+    "question7": {
+      "textvalue": "Was trägt der Mann um seinen Hals?",
+      "answers": [{
+          "text": "Glocken",
+          "feedback": "Glocken werden in der Fastnacht zwar von vielen Narren getragen. Jedoch hat der Mann hier einen Narrenorden, wie ihn auch die Narrenmutter trägt, um den Hals.",
+          "iscorrect": false
+        },
+        {
+          "text": "einen Orden wie die Narrenmutter",
+          "feedback": "Richtig! Der Mann trägt hier, wie auch die Narrenmutter, einen Narrenorden um den Hals.",
+          "iscorrect": true
+        },
+        {
+          "text": "eine Halskrause",
+          "feedback": "Eine Halskrause gehört zwar bei mancher Narrenkleidung dazu. Jedoch hat der Mann hier einen Narrenorden um den Hals, ähnlich wie der, den auch die Narrenmutter trägt.",
           "iscorrect": false
         }
       ]
     }
   },
+  
+
+
+  
 
   "picture": {
     "goose_wrong": "/assets/pictures/versionKinder/goose_wrong.png",
