@@ -1,130 +1,130 @@
 {
   "audio": {
     "question1": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_1_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_1_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_1_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_1_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_1_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_1_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_1_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_1_feedback_c.mp3"
         }
       ],
       "afterquestion": ""
     },
     "question2": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_2_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_2_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_2_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_2_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_2_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_2_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_2_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_2_feedback_c.mp3"
         }
       ],
       "afterquestion": ""
     },
     "question3": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_3_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_3_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_3_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_3_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_3_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_3_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_3_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_3_feedback_c.mp3"
         }
       ],
       "afterquestion": ""
     },
     "question4": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_4_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_4_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_4_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_4_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_4_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_4_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_4_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_4_feedback_c.mp3"
         }
       ],
       "afterquestion": ""
     },
     "question5": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_5_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_5_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_5_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_5_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_5_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_5_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_5_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_5_feedback_c.mp3"
         }
       ],
       "afterquestion": ""
     },
     "question6": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_6_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_6_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_6_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_6_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_6_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_6_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_6_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_6_feedback_c.mp3"
         }
       ],
       "afterquestion": ""
     },
     "question7": {
-      "beforequestion": "/assets/audiofiles/versionKinder/first.mp3",
-      "question": "/assets/audiofiles/versionKinder/first.mp3",
+      "beforequestion": "/assets/audiofiles/versionKinder/kinder_frage_7_einleitung.mp3",
+      "question": "/assets/audiofiles/versionKinder/kinder_frage_7_frage.mp3",
       "answers": [{
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_7_antwort_a.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_7_feedback_a.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_7_antwort_b.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_7_feedback_b.mp3"
         },
         {
-          "text": "/assets/audiofiles/versionKinder/first.mp3",
-          "feedback": "/assets/audiofiles/versionKinder/first.mp3"
+          "text": "/assets/audiofiles/versionKinder/kinder_frage_7_antwort_c.mp3",
+          "feedback": "/assets/audiofiles/versionKinder/kinder_frage_7_feedback_c.mp3"
         }
       ],
-      "afterquestion": ""
+      "afterquestion": "/assets/audiofiles/versionKinder/kinder_frage_7_feedback_ende.mp3"
     }
 
 
